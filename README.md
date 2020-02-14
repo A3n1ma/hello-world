@@ -3,6 +3,6 @@
 Hello friend!
 
 My name is Aenima and i like GitHub :)
-I'm checking how this thing works so yeap it's another great expierience!
+I'm checking how this thing works so yeap it's another great experience!
 
 See you!
